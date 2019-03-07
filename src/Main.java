@@ -4,8 +4,7 @@ public class Main {
         int a = 17;
         System.out.println(a);
         int y = 80;
-        int z = 10;
-        System.out.println(x + y + z * 2);
-        System.out.println(x * 2);
+        int z = 20;
+        System.out.println(x + y + z / 2);
     }
 }
